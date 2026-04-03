@@ -38,3 +38,8 @@ SOC Week 2 Tasks
 - Converted all files into PDF format
 - Took screenshots of all tasks
 - Uploaded all files to GitHub repository
+
+SOC Week 3 tasks:-
+
+Added threat intelligence and triage screenshots including IP analysis, failed login detection, and suspicious activity from Kibana.
+
